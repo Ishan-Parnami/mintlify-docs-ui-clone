@@ -4,24 +4,35 @@ This project is a desktop-first documentation-style website inspired by the Mint
 
 The focus of this implementation is on layout accuracy, readability, and visual consistency with the original Mintlify website.
 
+
+## Hosting
+
+```
+https://ishan-parnami.github.io/mintlify-docs-ui-clone/
+```
+
+
 ## Project Overview
 
 The website is a static, desktop-only documentation interface that mirrors the structure and layout of Mintlify’s documentation pages. No JavaScript, frameworks, or CSS libraries were used.
+
 
 ## Sections Implemented
 
 The following sections were recreated as part of this assignment:
 
-Top Navigation Bar with logo, navigation links, and primary call-to-action  
-Hero Section with headline, description, email input, CTA button, and background illustration  
-Documentation Preview Section with static sidebar navigation and content cards  
-Trusted By section displaying company logos  
-Feature Highlights using two-column text and visual layout  
-Intelligent Assistant section with UI preview and description  
-Enterprise Features section including security and compliance feature blocks  
-Case Studies section with card-based customer stories  
-Final Call-To-Action section with prominent heading and CTA buttons  
-Footer with multi-column navigation links and company and legal information  
+- Top Navigation Bar with logo, navigation links, and primary call-to-action  
+- Hero Section with headline, description, email input, CTA button, and background illustration  
+- Documentation Preview Section with static sidebar navigation and content cards  
+- Trusted By section displaying company logos  
+- Feature Highlights using two-column text and visual layout  
+- Intelligent Assistant section with UI preview and description  
+- Enterprise Features section including security and compliance feature blocks  
+- Case Studies section with card-based customer stories  
+- Customer Carousel section showcasing industry leaders and their success stories
+- Final Call-To-Action section with prominent heading and CTA buttons  
+- Footer with multi-column navigation links and company and legal information  
+
 
 ## Fonts and Colors
 
@@ -29,27 +40,29 @@ Fonts used in this project include Inter as the primary typeface with a sans-ser
 
 The color palette is inspired by the Mintlify design system and includes dark background tones, light primary text, muted secondary text, and a blue accent color for calls-to-action.
 
+
 ## Technologies Used
 
 HTML5  
 CSS3  
 
+
 ## Constraints Followed
 
-Only HTML and CSS were used  
-No JavaScript was included  
-No CSS frameworks such as Tailwind or Bootstrap were used  
-No animations or advanced visual effects were implemented  
-The design is desktop-only with no responsive behavior  
-Images and icons were used to closely resemble the original Mintlify website  
+- Only HTML and CSS were used  
+- No JavaScript was included  
+- No CSS frameworks such as Tailwind or Bootstrap were used  
+- No animations or advanced visual effects were implemented  
+- The design is desktop-only with no responsive behavior  
+- Images and icons were used to closely resemble the original Mintlify website  
+
 
 ## Screenshots
 
-Screenshots of the final output are included in the screenshots folder of this repository for reference and evaluation.
+Screenshots of the final output - 
 
-## Hosting
+![Screenshot 1](assets/Screenshot-1.png)
 
-This repository is public and can be hosted using GitHub Pages for easy access during evaluation.
 
 ## Credits
 
